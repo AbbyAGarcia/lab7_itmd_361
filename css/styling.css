@@ -1,12 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Emblema+One&display=swap');
+{
 td, th{
   border: 1px solid;
 }
 #planets{
   font-size: 2em
-  font-family:'Emblema One', system ui;
+  font-family:'Emblema One', system-ui;
   font-weight: 400;
   font-style: normal;
   color: rgb(239,84,125);
 }
-tr:hover {background-color:deeppink;}
+body{
+  background-image: url("..images/back.jpg");
+}
