@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Emblema+One&display=swap');
+body{
+  background-image: url("..images/back.jpg");
+}
 {
 td, th{
   border: 1px solid;
@@ -10,6 +13,4 @@ td, th{
   font-style: normal;
   color: rgb(239,84,125);
 }
-body{
-  background-image: url("..images/back.jpg");
-}
+
